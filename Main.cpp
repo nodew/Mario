@@ -1,7 +1,6 @@
 #include <cstdlib>
 #include <exception>
 #include <iostream>
-
 #include <IL/il.h>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_mixer.h>

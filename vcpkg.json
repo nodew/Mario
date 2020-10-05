@@ -1,0 +1,14 @@
+{
+    "name": "fibo",
+    "version-string": "0.0.1",
+    "dependencies": [
+        "boost-algorithm",
+        "boost-multi-array",
+        "boost-format",
+        "devil",
+        "rapidxml",
+        "opengl",
+        "sdl2",
+        "sdl2-mixer"
+    ]
+}

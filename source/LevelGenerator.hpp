@@ -5,7 +5,7 @@
 #include "Level.hpp"
 #include "Random.hpp"
 
-class LevelTheme;
+struct LevelTheme;
 
 /**
  * Generates a Level given a seed.

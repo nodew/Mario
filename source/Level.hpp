@@ -9,7 +9,7 @@
 #include "Location.hpp"
 
 class Background;
-class LevelTheme;
+struct LevelTheme;
 class Music;
 class Random;
 class ResourceManager;
